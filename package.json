@@ -13,6 +13,9 @@
   "description": "A simple template for a custom React component library",
   "scripts": {
     "rollup": "rollup -c"
+
+
+    
   },
   
   "author": "",
